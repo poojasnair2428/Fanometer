@@ -33,7 +33,7 @@ Fanometer provides a *fun but impractical* way to “measure” fan speed by usi
 - A fan (any type)
 
 
-## 📸 How It Works
+### How It Works
 1. Connect your phone's camera to your computer using **DroidCam** (Wi-Fi or USB).
 2. The script processes the live video feed using **OpenCV**.
 3. It applies **Farneback Optical Flow** to detect rotational motion in a circular region.
@@ -41,7 +41,7 @@ Fanometer provides a *fun but impractical* way to “measure” fan speed by usi
 
 ---
 
-## 📦 Installation
+### Installation
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/poojasnair2428/Fanometer.git
