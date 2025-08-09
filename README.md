@@ -39,6 +39,16 @@ Fanometer provides a *fun but impractical* way to “measure” fan speed by usi
 3. It applies **Farneback Optical Flow** to detect rotational motion in a circular region.
 4. Calculates and displays the **estimated RPM** of the fan.
 
+
+#### Demo
+
+
+
+https://github.com/user-attachments/assets/e1c10ec3-2d9c-436b-b776-da5fef1cb000
+
+### Screenshots
+
+
 ---
 
 ### Installation
