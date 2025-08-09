@@ -44,7 +44,10 @@ Fanometer provides a *fun but impractical* way to “measure” fan speed by usi
 
 
 
-https://github.com/user-attachments/assets/e1c10ec3-2d9c-436b-b776-da5fef1cb000
+https://github.com/user-attachments/assets/4b8199c9-2a7e-44b0-80b5-c634a9384d03
+
+
+
 
 ### Screenshots
 
